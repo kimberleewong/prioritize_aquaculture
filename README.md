@@ -30,7 +30,6 @@ prioritizing_aquaculture
 │   README.md
 │   prioritizing_potential_aquaculture.qmd
 │   prioritizing_potential_aquaculture.html
-│   .DS_Store
 │   prioritizing_potential_aquaculture.Rproj
 |   .gitignore
 ```
